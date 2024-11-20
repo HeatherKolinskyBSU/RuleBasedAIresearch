@@ -1,2 +1,2 @@
-# RuleBasedAIresearch
-Both rule-based AI algorithms for Assessment 1 of the AI Module.
+# Assessment 1 - Rule-Based AI Scientific Research - Solutions
+Contained here are both of the algorithms mentioned in the paper submitted for this assignment.
